@@ -1,0 +1,5 @@
+a=input()
+b=input()
+x=len(a)
+y=len(b)
+print(x==y)

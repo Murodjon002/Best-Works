@@ -1,0 +1,4 @@
+1."Yumaloq" sonlar
+ 200 dan boshlab
+200, 300,
+ 400, 500, 600, 700, 
