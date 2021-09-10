@@ -1,3 +1,4 @@
-from math import pi,sin,degrees
-x=90
-print(sin(x))
+from math import sqrt
+a=int(input())
+b=int(input())
+print(sqrt(sqrt(2*a*a*a)))
