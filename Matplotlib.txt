@@ -1,5 +1,5 @@
-1-lesson.https://colab.research.google.com/drive/1HemyNh8iqdV5gOPnOmfqMAKeDLU-otJO
-2-lesson.https://colab.research.google.com/drive/1588q_3bxjnPRh7d5ZvBUkRLpM7Vwk_Cp
-practice lesson https://colab.research.google.com/drive/1NJf0IlgGFLrJATnDd71d9hfMtRH6l-Jx#scrollTo=OQGTSsnhMwf0
-4-lesson https://colab.research.google.com/drive/1bSzW7buSwAKVJngKt0sWnooxzHc0_rXW#scrollTo=YeNqYRIXXZZz
-5-lesson https://colab.research.google.com/drive/1ge8MW7-nYqBe1psonbCYX38W9HzLnzcg#scrollTo=0LHMomtJCIQL
+1-lesson https://colab.research.google.com/drive/1HemyNh8iqdV5gOPnOmfqMAKeDLU-otJO?usp=sharing
+2-lesson https://colab.research.google.com/drive/1588q_3bxjnPRh7d5ZvBUkRLpM7Vwk_Cp?usp=sharing
+practice lesson https://colab.research.google.com/drive/1NJf0IlgGFLrJATnDd71d9hfMtRH6l-Jx?usp=sharing
+4-lesson https://colab.research.google.com/drive/1bSzW7buSwAKVJngKt0sWnooxzHc0_rXW?usp=sharing
+5-lesson https://colab.research.google.com/drive/1ge8MW7-nYqBe1psonbCYX38W9HzLnzcg?usp=sharing
