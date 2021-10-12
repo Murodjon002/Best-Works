@@ -1,1 +1,2 @@
 1-lesson https://colab.research.google.com/drive/1bVlab16hrqARsu0YOu8jhPIu2_6URWBW?usp=sharing
+practice https://colab.research.google.com/drive/1jl_ZMtkCR1kgCwptXVyBBCq6TTojt7eU?usp=sharing
