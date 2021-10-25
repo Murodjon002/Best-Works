@@ -4,3 +4,4 @@ practice https://colab.research.google.com/drive/1jl_ZMtkCR1kgCwptXVyBBCq6TTojt7
 drawing hause https://colab.research.google.com/drive/1XIJVqpo3f0VzRHF6EqCg28PvasN9l59Y?usp=sharing
 Grid https://colab.research.google.com/drive/1Eux6JopWS6BY-OpXjT5RiqMawUxr7TVN?usp=sharing
 Grid_2 https://colab.research.google.com/drive/1XN27Rdxl2xloNoQlCTZ9ZC5pRb38FET3?usp=sharing
+Paths https://colab.research.google.com/drive/1di3ffyHLHMJAMbVCcMskTjr8qHVtp1Kv?usp=sharing
