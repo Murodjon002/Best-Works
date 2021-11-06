@@ -9,3 +9,4 @@ Paths homework_2 https://colab.research.google.com/drive/1FU6FwFfv4Jq9Mqcy9oDjpU
 Add_imgs https://colab.research.google.com/drive/1IDwdlfrlhJd3QmKAut_D2Jh-1NXgp28h?usp=sharing
 stop_bus https://colab.research.google.com/drive/1XgV3nKiNVfYU2eO7irpwE3bNVndKUhGZ?usp=sharing
 pendestrian_crossing https://colab.research.google.com/drive/1NXFWjTMKwYmctnQv4prF2p_yO_jF0D83?usp=sharing
+opencv logo https://colab.research.google.com/drive/1j1u9GCgGsj-CvRDifhJYXfdwZGfeemEA?usp=sharing
