@@ -10,3 +10,4 @@ Add_imgs https://colab.research.google.com/drive/1IDwdlfrlhJd3QmKAut_D2Jh-1NXgp2
 stop_bus https://colab.research.google.com/drive/1XgV3nKiNVfYU2eO7irpwE3bNVndKUhGZ?usp=sharing
 pendestrian_crossing https://colab.research.google.com/drive/1NXFWjTMKwYmctnQv4prF2p_yO_jF0D83?usp=sharing
 opencv logo https://colab.research.google.com/drive/1j1u9GCgGsj-CvRDifhJYXfdwZGfeemEA?usp=sharing
+tarfic light https://colab.research.google.com/drive/1_3mzjTGtfOPxIRbsK6BNBNiDV3iZJp9R?usp=sharing
