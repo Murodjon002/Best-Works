@@ -17,3 +17,4 @@ to general repetition contours    https://colab.research.google.com/drive/1MBLxK
 findcontours https://colab.research.google.com/drive/1NmMleTS-gcuBPL6eH_p-c0aeVGGg-Lu3?usp=sharing
 dice https://colab.research.google.com/drive/1FpnRY8bYNiHLwlRyuKZfuWvgwBoUgWEN?usp=sharing
 shape detection   https://colab.research.google.com/drive/18CpLf5uOzG0DOnu5dqTQTFxUPUmeJhXI?usp=sharing
+new_dice  https://colab.research.google.com/drive/1gEGUF5GLl89nbV1ZSfmr7jB6aXpUugyu?usp=sharing
