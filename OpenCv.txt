@@ -20,3 +20,4 @@ shape detection   https://colab.research.google.com/drive/18CpLf5uOzG0DOnu5dqTQT
 new_dice  https://colab.research.google.com/drive/1gEGUF5GLl89nbV1ZSfmr7jB6aXpUugyu?usp=sharing
 dice full  https://colab.research.google.com/drive/1lXjbEuulp3AnyuDO7dCbd_4lyuRJ6kCQ?usp=sharing
 Rubic   https://colab.research.google.com/drive/1OhO_jELmMdnD9XVBEKh6A7fZ5hypRlAm?usp=sharing
+hsv color   https://colab.research.google.com/drive/1nU27ay_jUtwXn7_jk0l3mttxmQmQhR0T?usp=sharing
