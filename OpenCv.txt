@@ -22,3 +22,4 @@ dice full  https://colab.research.google.com/drive/1lXjbEuulp3AnyuDO7dCbd_4lyuRJ
 Rubic   https://colab.research.google.com/drive/1OhO_jELmMdnD9XVBEKh6A7fZ5hypRlAm?usp=sharing
 hsv color   https://colab.research.google.com/drive/1nU27ay_jUtwXn7_jk0l3mttxmQmQhR0T?usp=sharing
 Canny egde detect   https://colab.research.google.com/drive/1t663g2nPFoxzK4So18pzwE_2GiKqgUj9?usp=sharing
+HoughLinesP   https://colab.research.google.com/drive/1nRiy5nnPtfDwc4DLQZbvO2JXjFnvbFfk?usp=sharing
